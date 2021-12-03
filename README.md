@@ -1,2 +1,2 @@
-# Simple-Calculator
-#This project makes simple calculations
+# Final Integration project
+#This project works as a calculator
